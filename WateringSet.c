@@ -105,5 +105,8 @@ sbit Enter=P1^7;
 //	LCD_Dspaly_8x16_Asicc(81,4, W_Time1+16);
 //	LCD_Dspaly_8x16_Asicc(105,4,W_Time2+16);		
 //}
+void test()
+{
 
+}
 
